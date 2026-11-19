@@ -1,13 +1,12 @@
-
-# Employee Management System
+Employee Management System
 
 A responsive Employee Management System developed using Next.js, React.js, JavaScript, Bootstrap 5 and CSS.
 
 ## Project Video
 
-[Watch Project Explanation Video](PASTE_YOUR_VIDEO_LINK_HERE)
+[Watch Project Explanation Video](https://drive.google.com/file/d/1bJBRHFjWVr_r9eFklLRAPbnCLojF87MS/view?usp=drivesdk)
 
-## Features
+Features
 
 - Employee Registration Form
 - Form Validation
@@ -23,7 +22,7 @@ A responsive Employee Management System developed using Next.js, React.js, JavaS
 - Local Storage Data Persistence
 - Responsive Design
 
-## Technologies Used
+Technologies Used
 
 - Next.js
 - React.js
@@ -32,43 +31,41 @@ A responsive Employee Management System developed using Next.js, React.js, JavaS
 - CSS
 - Local Storage
 
-## React Hooks Used
+React Hooks Used
 
-- `useState`
-- `useEffect`
-- `useReducer`
-- `useRef`
+- "useState"
+- "useEffect"
+- "useReducer"
+- "useRef"
 
-## JavaScript Concepts
+JavaScript Concepts
 
-- Array map()
-- Array filter()
-- Array sort()
+- Array "map()"
+- Array "filter()"
+- Array "sort()"
 - Spread Operator
 - Rest Operator
 - Conditional Rendering
 
-## Installation and Setup
+Installation and Setup
 
 1. Clone the repository.
-2. Open the project folder in VS Code.
-3. Install dependencies:
 
-   ```bash
+2. Open the project folder in VS Code.
+
+3. Install dependencies:
+   
    npm install
-   ```
 
 4. Start the development server:
-
-   ```bash
+   
    npm run dev
-   ```
 
 5. Open your browser:
-
+   
    http://localhost:3000
 
-## Data Storage
+Data Storage
 
 Employee records are stored in browser Local Storage.
 
@@ -76,15 +73,13 @@ Data remains available after refreshing the page.
 
 Passwords are validated but are not stored in Local Storage.
 
-## Project Structure
+Project Structure
 
-```text
 app/
  ├── page.js
  ├── layout.js
  └── globals.css
-```
 
-## Developed By
+Developed By
 
-**Shriya Patel**
+Shriya Patel
